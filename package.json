@@ -1,0 +1,25 @@
+{
+  "name": "rpi-arbor",
+  "version": "1.0.0",
+  "description": "arbor.js --------",
+  "main": "src/arbor.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpad1337/arbor.git"
+  },
+  "author": "@rpi1337",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpad1337/arbor/issues"
+  },
+  "homepage": "https://github.com/arpad1337/arbor#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
