@@ -2,7 +2,7 @@
   "name": "rpi-arbor",
   "version": "1.0.0",
   "description": "arbor.js --------",
-  "main": "src/arbor.js",
+  "main": "index.js",
   "directories": {
     "doc": "docs"
   },
